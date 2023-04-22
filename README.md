@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 * **Name**: Filipe Andrade
-* **Age**: 21
+* **Age**: 22
 * **Living in**: Vitória da Conquista - BA, Brazil
 * **Stack**: JavaScript
