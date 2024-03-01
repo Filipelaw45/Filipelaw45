@@ -6,4 +6,4 @@ Fique a vontade e conheça um pouco mais do meu trabalho conferindo os meus rep�
 
 * **Cursando**: Desenvolvimento de sistemas
 * **Mora em**: Vitória da Conquista - BA, Brazil
-* **Stacks**: HTML, CSS, JavaScript, NodeJS
+* **Stacks**: HTML, CSS, JavaScript, NodeJS, SQL
